@@ -50,3 +50,7 @@ This project strengthened my understanding of:
 * Numerical solution of PDEs
 * Stability conditions in finite difference methods
 * Scientific computing using Python
+## Applications
+- Heat transfer in materials engineering  
+- Thermal analysis in semiconductor devices  
+- Numerical modelling of diffusion processes  
